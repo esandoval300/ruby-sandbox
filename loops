@@ -1,0 +1,3 @@
+pp "What's your name?"
+
+name = gets
